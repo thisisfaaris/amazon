@@ -37,9 +37,9 @@ export default function Header() {
       <div className="flex items-center flex-grow bg-amazon_blue-default p-1 py-2 px-4">
         <div className="flex flex-grow sm:flex-grow-0 items-center mt-2">
           <Image
-            src="/amazon.svg"
+            src="/amazon.png"
             alt="amazon logo"
-            height={40}
+            height={50}
             width={150}
             objectFit="contain"
             className="cursor-pointer"
