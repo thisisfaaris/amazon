@@ -21,6 +21,7 @@ export default function Product({
   )
 
   const [hasPrime] = useState(Math.random() < 0.5)
+console.log('img',image);
 
   return (
     <div>
